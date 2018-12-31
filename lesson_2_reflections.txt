@@ -1,0 +1,12 @@
+lesson_2_reflections
+What happens when you initialize a repository? Why do you need to do it?
+
+	The repository is set to be added to Git. This is necessary so that we can start pushing our code on Git.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	Staging area is where the files reside before moving to repository.
+	Working Directory is where the files are. It may or may not be related to staging area.
+ 	Staging area allows us to review the files before being committed. Thus, it reduces any discrepancy.
+
+ 
