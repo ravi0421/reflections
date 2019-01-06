@@ -1,16 +1,22 @@
 How did viewing a diff between two versions of a file help you see the bug that was introduced?
 
-	It helped me visually identify the changes and narrow down my search.
+	MyAns: It helped me visually identify the changes and narrow down my search.
+UdacityAns--> Viewing a diff between two versions of a file allows me to quickly pinpoint/ debug any program with ease. Even without knowing the line number for the error, I can take, for example, a typo within my code and search for it in the file through my text editor. There, I would find the typo and quickly fix the bug. 
+
 
 How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
 
 	I could go back to previous versions and easily undo changes.
+ --> Having easy access to the entire history of a file will make me a more efficient programmer by giving me a full scope of my code at hand in the need of revisiting old versions. Sometimes I may want to use an older feature or perhaps have a few errors in my code and I want to revert back to a previous version. Having that history will give me access to different versions of the code when needed. 
+
 	
 What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
 
 	The pros can be committing changes at right time, easily understandable change and not mixing up.
 	The cons can be one needs to be careful and commit periodically using ones judgement. 
 	Too long a time can affect the understandability of code.
+ --> The pros for committing manually in git keep in sure that each one is for some logical reason and meaningful purpose. For versions automatically saved, the pros could be having the files at hand during certain time frames when you need them. The cons for manually committing changes is the tedious workload you'll have to go through, plus knowing/ understanding whether the commit is actually pertaining to anything (logically). For automatic version control, the cons would be saving so many versions of one file could be burdonsome, while having taken up so much unecessary space, plus certain versions could be useless depending on the time when the code was made.
+
 	
 Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
 
