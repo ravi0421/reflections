@@ -9,4 +9,28 @@ How is the staging area different from the working directory and the repository?
 	Working Directory is where the files are. It may or may not be related to staging area.
  	Staging area allows us to review the files before being committed. Thus, it reduces any discrepancy.
 
- 
+How can you use the staging area to make sure you have one commit per logical change?
+
+	By using the diff command we can know what changes we have made. 
+	The staging area helps us to identify these differences and ensure that we make right updates to our files.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	Branches become really useful when we have to make a trial or different copy/version of files without affecting a single master version. This gives us the ability to make changes on a separate node and be risk-taker without being worried about affecting the original copy.
+
+How do the diagrams help you visualize the branch structure?
+
+	They make it easier to understand the master and branches where the chekout was made. This was we can identify various copies/edits of a file.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	merging two branches results in combining the branch version with master.
+	We represent it by connecting it to master as this is the ultimate node.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Automatic merging helps us by taking care of merging those areas which do not conflict.
+	Doing manual merges always is cumbersome.
+	Yet at times the automatic merging can not be done as logic or usage of function can be altered. Thus manual merging becomes the need of time then.
+
+	
