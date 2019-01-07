@@ -9,4 +9,6 @@ Describe the differences between forks, clones, and branches. When would you use
 	Clone is about copying a repository from our own repository to another of repository on our own GIT account. It could also be cloning from one folder to another on our system.
 	Branches are the nodes created when we work on our local copy in our machine.
 	
+What is the benefit of having a copy of the last known state of the remote stored locally?
+	We can then merge the two files after resolving conflicts between different versions stored locally.
 	
